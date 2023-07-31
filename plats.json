@@ -1,0 +1,210 @@
+[
+    {
+        "id": 1,
+        "name": "Pizza Margherita",
+        "description": "Délicieuse pizza italienne classique avec sauce tomate, mozzarella et basilic frais",
+        "price": 10.99,
+        "category": "plat",
+        "image": "images/pizza_margherita.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Burger Géant",
+        "description": "Un hamburger géant avec deux steaks juteux, fromage fondant et légumes frais.",
+        "price": 12.99,
+        "category": "plat",
+        "image": "images/burger_geant.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Salade César",
+        "description": "Une salade fraîche avec de la laitue croquante, du poulet grillé, des croûtons et une vinaigrette crémeuse.",
+        "price": 8.99,
+        "category": "entrée",
+        "image": "images/salade_cesar.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Tarte aux Fruits",
+        "description": "Une tarte sucrée remplie de fruits frais de saison et recouverte d'une délicieuse croûte dorée.",
+        "price": 6.99,
+        "category": "dessert",
+        "image": "images/tarte_aux_fruits.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Pâtes Carbonara",
+        "description": "Pâtes italiennes traditionnelles avec une sauce crémeuse à base de pancetta, d'œufs et de parmesan.",
+        "price": 11.99,
+        "category": "plat",
+        "image": "images/pates_carbonara.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Sushi Fusion",
+        "description": "Une sélection de sushis créatifs avec des combinaisons de saveurs uniques.",
+        "price": 14.99,
+        "category": "plat",
+        "image": "images/sushi_fusion.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Fish and Chips",
+        "description": "Du poisson frais frit croustillant accompagné de frites dorées et d'une sauce tartare.",
+        "price": 10.99,
+        "category": "plat",
+        "image": "images/fish_and_chips.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Pad Thai",
+        "description": "Un plat de nouilles thaïlandaises sautées avec des crevettes, des légumes croquants et des arachides concassées.",
+        "price": 9.99,
+        "category": "plat",
+        "image": "images/pad_thai.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Riz au Poulet",
+        "description": "Un savoureux mélange de riz, de poulet tendre et de légumes, assaisonné avec des épices exotiques.",
+        "price": 10.99,
+        "category": "plat",
+        "image": "images/riz_au_poulet.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Wrap Méditerranéen",
+        "description": "Un wrap garni de falafels croustillants, de légumes frais et d'une sauce au yogourt à l'ail.",
+        "price": 8.99,
+        "category": "plat",
+        "image": "images/wrap_mediterraneen.jpeg"
+    },
+    {
+        "id": 11,
+        "name": "Tarte Flambée",
+        "description": "Une délicieuse spécialité alsacienne avec une fine pâte croustillante garnie de crème, d'oignons et de lardons.",
+        "price": 9.99,
+        "category": "plat",
+        "image": "images/tarte_flambee.jpeg"
+    },
+    {
+        "id": 12,
+        "name": "Curry de Poulet",
+        "description": "Un curry indien épicé avec du poulet tendre, des légumes et une sauce parfumée.",
+        "price": 12.99,
+        "category": "plat",
+        "image": "images/curry_de_poulet.jpeg"
+    },
+    {
+        "id": 13,
+        "name": "Fajitas Festives",
+        "description": "Des fajitas savoureuses avec des lamelles de bœuf grillées, des poivrons colorés et des tortillas chaudes.",
+        "price": 11.99,
+        "category": "plat",
+        "image": "images/fajitas_festives.jpeg"
+    },
+    {
+        "id": 14,
+        "name": "Moules Marinières",
+        "description": "Des moules fraîches cuites dans un bouillon de vin blanc, d'ail et de persil, accompagnées de frites.",
+        "price": 13.99,
+        "category": "plat",
+        "image": "images/moules_marinieres.jpeg"
+    },
+    {
+        "id": 15,
+        "name": "Gyozas Gourmands",
+        "description": "Des gyozas japonais délicieusement dorés, farcis de viande hachée et de légumes.",
+        "price": 9.99,
+        "category": "entrée",
+        "image": "images/gyozas_gourmands.jpeg"
+    },
+    {
+        "id": 16,
+        "name": "Lasagnes Maison",
+        "description": "Des lasagnes italiennes traditionnelles avec des couches de pâtes, de viande, de fromage et de sauce tomate.",
+        "price": 10.99,
+        "category": "plat",
+        "image": "images/lasagnes_maison.jpeg"
+    },
+    {
+        "id": 17,
+        "name": "Sashimi Surprise",
+        "description": "Une sélection de sashimis frais et colorés, accompagnés de sauce soja et de wasabi.",
+        "price": 14.99,
+        "category": "plat",
+        "image": "images/sashimi_surprise.jpeg"
+    },
+    {
+        "id": 18,
+        "name": "Salade Grecque",
+        "description": "Une salade fraîche et croquante avec des légumes, des olives, du fromage feta et une vinaigrette à l'huile d'olive.",
+        "price": 8.99,
+        "category": "entrée",
+        "image": "images/salade_grecque.jpeg"
+    },
+    {
+        "id": 19,
+        "name": "Croustilles de Poulet",
+        "description": "Des croustilles de poulet croustillantes et épicées, accompagnées de sauce barbecue.",
+        "price": 9.99,
+        "category": "entrée",
+        "image": "images/croustilles_de_poulet.jpeg"
+    },
+    {
+        "id": 20,
+        "name": "Pad Krapow",
+        "description": "Un plat thaïlandais épicé avec du poulet sauté, du basilic sacré et du riz parfumé.",
+        "price": 9.99,
+        "category": "plat",
+        "image": "images/pad_krapow.jpeg"
+    },
+    {
+        "id": 21,
+        "name": "Bowl Végétarien",
+        "description": "Un bol copieux rempli de légumes frais, de grains sains et de protéines végétales.",
+        "price": 10.99,
+        "category": "plat",
+        "image": "images/bowl_vegetarien.jpeg"
+    },
+    {
+        "id": 22,
+        "name": "Crème Brûlée",
+        "description": "Une crème onctueuse et vanillée, recouverte d'une fine couche de sucre caramélisé.",
+        "price": 6.99,
+        "category": "dessert",
+        "image": "images/creme_brulee.jpeg"
+    },
+    {
+        "id": 23,
+        "name": "Filet Mignon",
+        "description": "Un tendre filet mignon grillé à la perfection, accompagné de légumes de saison.",
+        "price": 16.99,
+        "category": "plat",
+        "image": "images/filet_mignon.jpeg"
+    },
+    {
+        "id": 24,
+        "name": "Phở Vietnamien",
+        "description": "Un bouillon parfumé aux épices, avec des nouilles de riz, des tranches de bœuf et des herbes fraîches.",
+        "price": 12.99,
+        "category": "plat",
+        "image": "images/pho_vietnamien.jpeg"
+    },
+    {
+        "id": 25,
+        "name": "Crevettes à l'Ail",
+        "description": "Crevettes sautées dans une sauce à l'ail et au citron, servies avec du riz parfumé.",
+        "price": 13.99,
+        "category": "plat",
+        "image": "images/crevettes_a_l'ail.jpeg"
+    },
+    {
+        "id": 26,
+        "name": "Fondant au Chocolat",
+        "description": "Un gâteau au chocolat fondant à l'intérieur, servi avec une boule de glace à la vanille.",
+        "price": 7.99,
+        "category": "dessert",
+        "image": "images/fondant_au_chocolat.jpeg"
+    }
+]

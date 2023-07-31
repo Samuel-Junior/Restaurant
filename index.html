@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+    <script type ="module" src="menu.js" defer></script>
+    <script src="https://unpkg.com/js-alert/dist/jsalert.min.js"></script>
+</head>
+<body>
+    <section  id="left-section-container">
+        <h2>Connection</h2>
+       <form id="form">
+            <!-- Ajoutez ici les champs du formulaire de commande -->
+            <label for="email">Entrez votre email :</label>
+            <input type="text" id="email" name="email" required>
+
+            <label for="prenom">Entrez votre prénom :</label>
+            <input type="text" id="prenom" name="prenom" required>
+        <br>
+            <input type="submit" value="ENVOYEZ" id="valider">
+        </form> 
+        <br>
+        <hr>
+        <h2>Ma commande</h2>
+        <div id="dish-section"></div>
+        <div id="total-section"></div>
+        <div id="btn-section"></div>
+        
+    </section>
+
+    <section id="right-section" style="margin-left: 100px;">
+        <h1 id="menu-title">Menu du Restaurant du monde</h1>
+        <ul id="menu-list">
+            <!-- <li class="menu-item">
+                <img src="images/plat.jpeg" alt="Image du plat 1">
+                <div class="menu-item-description">
+                    <h3>Nom du plat 1</h3>
+                    <p>Description du plat 1</p>
+                </div>
+                <div class="menu-item-price">Prix du plat 1</div>
+                <div>
+                  <button class="btn btn-success">ajouter au panier</button>
+                  <button class="btn btn-danger">voir la description</button>
+                </div>
+              
+            </li>
+            <li class="menu-item">
+              <div>
+                   <img src="chemin/vers/image2.jpg" alt="Image du plat 2">
+                <div class="menu-item-description">
+                    <h3>Nom du plat 2</h3>
+                    <p>Description du plat </p>
+                </div>
+                <div class="menu-item-price">Prix du plat 2</div>
+              </div>
+             
+                <div class="button_group">
+                  <button class="btn btn-success">ajouter au panier</button>
+                  <button class="btn btn-danger">voir la description</button>
+                </div>
+            </li>             -->
+        </ul>
+    </section>
+
+</body>
+</html>
